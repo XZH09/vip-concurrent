@@ -28,7 +28,7 @@ public class NewThread {
 		@Override
 		public String call() throws Exception {
 			System.out.println("I am implements Callable");
-			return "CallResult";
+			return "CallResult11";
 		}
 		
 	}	
