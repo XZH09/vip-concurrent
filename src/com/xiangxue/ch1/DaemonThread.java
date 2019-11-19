@@ -20,7 +20,7 @@ public class DaemonThread {
 				System.out.println(Thread.currentThread().getName() 
 						+ " interrupt flag is " + isInterrupted());
 			} finally {
-				System.out.println("...........finally555");
+				System.out.println("...........finally555666");
 			}
 		}
 	}
